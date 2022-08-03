@@ -1,0 +1,5 @@
+.resources__link {
+    text-align: center;
+    opacity: 1;
+    transition: opacity .5s ease;
+}
