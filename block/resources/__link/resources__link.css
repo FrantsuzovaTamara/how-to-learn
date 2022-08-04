@@ -3,3 +3,7 @@
     opacity: 1;
     transition: opacity .5s ease;
 }
+
+.resources__link:hover {
+    opacity: .5;
+}
