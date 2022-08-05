@@ -33,6 +33,7 @@
 @import url(../block/header/__main-illustration/header__main-illustration.css);
 @import url(../block/header/__subtitle/header__subtitle.css);
 @import url(../block/header/__title/header__title.css);
+@import url(../block/header/__square/header__square.css);
 
 @import url(../block/cards/cards.css);
 @import url(../block/cards/__item/cards__item.css);
@@ -66,6 +67,7 @@
 @import url(../block/khan/__buy-link/khan__buy-link.css);
 
 @import url(../block/kaufman/kaufman.css);
+@import url(../block/kaufman/__triangle/kaufman__triangle.css);
 
 @import url(../block/resources/resources.css);
 @import url(../block/resources/__logo-zone/resources__logo-zone.css);
