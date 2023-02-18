@@ -1,4 +1,4 @@
-[Иллюстрация к проекту](./images/readme/readme.png)
+![Иллюстрация к проекту](./images/readme/readme.png)
 
 # Научиться учиться
 
@@ -20,9 +20,9 @@
 * Анимация и трансформация
 * Методология БЭМ
 
-[Gif animation 1](./images/readme/readme__header-animation.gif)
-[Gif animation 2](./images/readme/readme__kaufman-animation.gif)
-[Gif links](./images/readme/readme__link-hover.gif)
+![Gif animation 1](./images/readme/readme__header-animation.gif)
+![Gif animation 2](./images/readme/readme__kaufman-animation.gif)
+![Gif links](./images/readme/readme__link-hover.gif)
 
 ## Доработка
 
