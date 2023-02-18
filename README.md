@@ -1,3 +1,5 @@
+[Иллюстрация к проекту](./images/readme/readme.png)
+
 # Научиться учиться
 
 Эта информационная страничка рассказывает о возникающих проблемах с обучением и о разных методиках, которые позволяют учиться эффективно, и предлагает узнать о них чуть больше с помощью рекомендаций книг, обучающих видео и ссылок на полезные ресурсы.
@@ -17,6 +19,10 @@
 * YouTube Api
 * Анимация и трансформация
 * Методология БЭМ
+
+[Gif animation 1](./images/readme/readme__header-animation.gif)
+[Gif animation 2](./images/readme/readme__kaufman-animation.gif)
+[Gif links](./images/readme/readme__link-hover.gif)
 
 ## Доработка
 
